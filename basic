@@ -1,0 +1,40 @@
+#!/bin/bash
+
+
+echo "Welcome to my script"
+
+echo ##################################################################
+
+
+
+echo "Tejeshwar is a Devops Engineer"
+
+
+echo ###############################################
+
+
+
+echo "the uptime is:"
+
+uptime
+
+echo #########################
+
+echo "the date is"
+
+
+date
+
+echo #############################################
+
+
+
+echo "the memory utilization is:"
+
+free -m
+
+
+echo "the disk space is:"
+
+df -h
+
